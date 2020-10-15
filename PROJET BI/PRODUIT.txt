@@ -1,0 +1,11 @@
+"CODE_PRODUIT"	"NOM_PRODUIT"	   "CATEGORIE"	             "PRIX"
+1	        "Doliprane 1000"   "Paracetamol"	     2810
+2	        "Doliprane 500"	   "Paracetamol"	     1395
+3	        "Dolirhume"	   "PSEUDOEPHEDRINE"	     2110
+4	        "Efferalgon"	   "Paracetamol"	     2575
+5	        "Aspegic"	   "ACIDE ACETYLSALICYLIQUE" 1645
+6	        "Smecta"	   "SMECTITE"	             6270
+7	        "Gripex"	   "Acide Ascorbique"	     5520
+8	        "Panadol"	   "Paracetamol"	     2865
+9	        "Cetamol"	   "Paracetamol"	     1095
+10	        "Fervex"	   "Acide Ascorbique"	     4175

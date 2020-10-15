@@ -1,0 +1,101 @@
+﻿CODE_TRANSACTION;NOM_PRODUIT;NOM_PHARMACIE;DATE_TRANSACTION;QUANTITE_VENDUE
+1;Doliprane 1000;Nejib Eloued;25/01/2020;200
+2;Doliprane 1000;Moez Ben Omrane;28/04/2020;210
+3;Doliprane 1000;Ghazi Saihi;20/03/2020;190
+4;Doliprane 1000;Hichem Najjar;05/02/2020;150
+5;Doliprane 1000;Karim Sarrai;26/04/2020;160
+6;Doliprane 1000;Hafedh Atallah;18/01/2020;100
+7;Doliprane 1000;Latifa Aouidj;04/02/2020;180
+8;Doliprane 1000;Rached Khabthani;03/04/2020;250
+9;Doliprane 1000;Hedi Bel Hadj Hassen;01/03/2020;300
+10;Doliprane 1000;Sonia Mellouli;09/01/2020;260
+11;Doliprane 500;Nejib Eloued;20/04/2020;150
+12;Doliprane 500;Moez Ben Omrane;22/04/2020;160
+13;Doliprane 500;Ghazi Saihi;27/01/2020;150
+14;Doliprane 500;Hichem Najjar;17/04/2020;200
+15;Doliprane 500;Karim Sarrai;29/02/2020;200
+16;Doliprane 500;Hafedh Atallah;04/01/2020;190
+17;Doliprane 500;Latifa Aouidj;12/04/2020;180
+18;Doliprane 500;Rached Khabthani;26/03/2020;200
+19;Doliprane 500;Hedi Bel Hadj Hassen;02/04/2020;245
+20;Doliprane 500;Sonia Mellouli;07/03/2020;255
+21;Dolirhume;Nejib Eloued;21/02/2020;175
+22;Dolirhume;Moez Ben Omrane;19/04/2020;160
+23;Dolirhume;Ghazi Saihi;25/01/2020;200
+24;Dolirhume;Hichem Najjar;17/02/2020;210
+25;Dolirhume;Karim Sarrai;22/03/2020;245
+26;Dolirhume;Hafedh Atallah;12/03/2020;266
+27;Dolirhume;Latifa Aouidj;15/04/2020;178
+28;Dolirhume;Rached Khabthani;24/02/2020;201
+29;Dolirhume;Hedi Bel Hadj Hassen;08/02/2020;213
+30;Dolirhume;Sonia Mellouli;23/01/2020;198
+31;Efferalgon;Nejib Eloued;07/02/2020;144
+32;Efferalgon;Moez Ben Omrane;16/04/2020;156
+33;Efferalgon;Ghazi Saihi;08/02/2020;213
+34;Efferalgon;Hichem Najjar;15/01/2020;222
+35;Efferalgon;Karim Sarrai;05/03/2020;333
+36;Efferalgon;Hafedh Atallah;21/02/2020;321
+37;Efferalgon;Latifa Aouidj;14/02/2020;298
+38;Efferalgon;Rached Khabthani;26/02/2020;248
+39;Efferalgon;Hedi Bel Hadj Hassen;10/02/2020;265
+40;Efferalgon;Sonia Mellouli;09/02/2020;315
+41;Aspegic;Nejib Eloued;22/03/2020;325
+42;Aspegic;Moez Ben Omrane;06/03/2020;265
+43;Aspegic;Ghazi Saihi;01/01/2020;357
+44;Aspegic;Hichem Najjar;23/02/2020;251
+45;Aspegic;Karim Sarrai;28/03/2020;351
+46;Aspegic;Hafedh Atallah;28/01/2020;298
+47;Aspegic;Latifa Aouidj;10/04/2020;311
+48;Aspegic;Rached Khabthani;08/04/2020;287
+49;Aspegic;Hedi Bel Hadj Hassen;17/01/2020;333
+50;Aspegic;Sonia Mellouli;13/01/2020;296
+51;Smecta;Nejib Eloued;28/02/2020;222
+52;Smecta;Moez Ben Omrane;10/02/2020;100
+53;Smecta;Ghazi Saihi;05/01/2020;150
+54;Smecta;Hichem Najjar;07/01/2020;201
+55;Smecta;Karim Sarrai;24/04/2020;166
+56;Smecta;Hafedh Atallah;25/04/2020;213
+57;Smecta;Latifa Aouidj;25/03/2020;221
+58;Smecta;Rached Khabthani;28/01/2020;164
+59;Smecta;Hedi Bel Hadj Hassen;16/04/2020;245
+60;Smecta;Sonia Mellouli;30/03/2020;324
+61;Gripex;Nejib Eloued;13/01/2020;400
+62;Gripex;Moez Ben Omrane;07/04/2020;500
+63;Gripex;Ghazi Saihi;27/01/2020;365
+64;Gripex;Hichem Najjar;28/02/2020;333
+65;Gripex;Karim Sarrai;04/05/2020;352
+66;Gripex;Hafedh Atallah;29/01/2020;365
+67;Gripex;Latifa Aouidj;07/03/2020;421
+68;Gripex;Rached Khabthani;24/01/2020;152
+69;Gripex;Hedi Bel Hadj Hassen;17/01/2020;321
+70;Gripex;Sonia Mellouli;08/03/2020;231
+71;Panadol;Nejib Eloued;13/04/2020;235
+72;Panadol;Moez Ben Omrane;19/04/2020;421
+73;Panadol;Ghazi Saihi;09/03/2020;321
+74;Panadol;Hichem Najjar;02/05/2020;654
+75;Panadol;Karim Sarrai;11/04/2020;456
+76;Panadol;Hafedh Atallah;09/01/2020;321
+77;Panadol;Latifa Aouidj;09/04/2020;452
+78;Panadol;Rached Khabthani;26/02/2020;451
+79;Panadol;Hedi Bel Hadj Hassen;03/02/2020;245
+80;Panadol;Sonia Mellouli;23/01/2020;123
+81;Cetamol;Nejib Eloued;28/02/2020;456
+82;Cetamol;Moez Ben Omrane;27/03/2020;231
+83;Cetamol;Ghazi Saihi;16/01/2020;245
+84;Cetamol;Hichem Najjar;24/04/2020;154
+85;Cetamol;Karim Sarrai;25/01/2020;652
+86;Cetamol;Hafedh Atallah;15/03/2020;325
+87;Cetamol;Latifa Aouidj;02/02/2020;451
+88;Cetamol;Rached Khabthani;27/03/2020;224
+89;Cetamol;Hedi Bel Hadj Hassen;16/02/2020;335
+90;Cetamol;Sonia Mellouli;28/04/2020;444
+91;Fervex;Nejib Eloued;04/02/2020;100
+92;Fervex;Moez Ben Omrane;07/03/2020;222
+93;Fervex;Ghazi Saihi;03/05/2020;555
+94;Fervex;Hichem Najjar;12/02/2020;354
+95;Fervex;Karim Sarrai;19/03/2020;456
+96;Fervex;Hafedh Atallah;31/01/2020;154
+97;Fervex;Latifa Aouidj;04/01/2020;653
+98;Fervex;Rached Khabthani;06/02/2020;245
+99;Fervex;Hedi Bel Hadj Hassen;15/02/2020;351
+100;Fervex;Sonia Mellouli;02/04/2020;254
